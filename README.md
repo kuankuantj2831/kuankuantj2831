@@ -1,5 +1,5 @@
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kuankuantj2831&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuankuantj2831" /> </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuankuantj2831)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuankuantj2831)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuankuantj2831" /> </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=kuankuantj2831&theme=xcode" /> </div>
 
