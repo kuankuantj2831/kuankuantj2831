@@ -1,7 +1,7 @@
 <!-- 打字动画横幅 -->
 <div align="center">
   <a href="https://blog.ytadx.cn/">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕;活着就是一个无可替代的;日子的累积;猫猫祝你天天愉快!&center=true&size=27" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=长风破浪会有时，直挂云帆济沧海。;千磨万击还坚韧，任尔东西南北风。;天生我材必有用，千金散尽还复来。;猫猫祝你天天愉快!&center=true&size=27" />
   </a>
 </div>
 
