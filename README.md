@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="./dulin.jpeg" width="850">
+  <img src="./dulin.png" width="850">
 </div>
 <br>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuankuantj2831" /> </div>
